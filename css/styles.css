@@ -1,0 +1,24 @@
+body{
+font-family: 'Lora',  serif;
+font-size: 2em;
+font-weight: bolder;
+}
+
+h1, .title-super {
+
+	font-size: 3em;
+	font-weight: 900;
+	color: #18BC9C;
+	font-size: 60px;
+}
+
+.title-logo
+{
+	margin-top: 12px;
+}
+
+h4, .subheader{
+	font-weight: bolder;
+	font-size: 30px;
+	
+}
